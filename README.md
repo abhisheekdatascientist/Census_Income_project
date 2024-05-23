@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1qM6p_aUuJyCPwtKHCFf80mWX-61xzuSL?usp=sha
 
 download dataset or diractly connect with this drive
 
-## using Box plot to remove outlayers
+## Using Box plot to remove outlayers
 
 ## Encode the categorical data
 using from sklearn.preprocessing import LabelEncoder
